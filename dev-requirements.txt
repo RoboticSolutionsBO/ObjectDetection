@@ -1,0 +1,8 @@
+####### Pip Requirements #######
+#
+###### Requirements without Version Specifiers ######
+matplotlib
+numpy
+pandas
+#
+###### Requirements with Version Specifiers ######
