@@ -7,5 +7,5 @@ Object Detection software written on python
 ## 1. Set Up Virtual Environment (Optional)
 ## 2. Install Dependencies
 ```
-pip install -r requirements.txt
+pip install -r dev-requirements.txt
 ```
