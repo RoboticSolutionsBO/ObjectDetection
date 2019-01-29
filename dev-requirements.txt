@@ -1,8 +1,18 @@
+################################
 ####### Pip Requirements #######
+################################
 #
 ###### Requirements without Version Specifiers ######
-matplotlib
-numpy
-pandas
+matplotlib    # 3.0.2
+numpy         # 1.16.0
+pandas        # 0.24.0
+# fastai      # 1.0.42
 #
 ###### Requirements with Version Specifiers ######
+#
+################################
+###### Other Requirements ######
+################################
+#
+###### PyTorch v.1.0.0 ######
+###### OpenCV ######
